@@ -1,0 +1,39 @@
+INFO-
+INFO-		Unigraphics Version NX V8.5 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Tue Apr 28 12:22:38 2015
+INFO-
+STATUS-		Converting C:\Users\Eric\AppData\Local\Temp\Eric2B647C31j6f4.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\Eric\AppData\Local\Temp\Eric2B647C31j6f4.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	4
+SUMMARY-	Circle ......................................:	2
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: D:\Eric\HexCycler_v2.0\HexCycler\piston_guard.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	2
+SUMMARY-	Line .....................................:	4
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	12
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Tue Apr 28 12:22:38 2015
+INFO-		Translation CPU time: 0 m, 0 sINFO-
