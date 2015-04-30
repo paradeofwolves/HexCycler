@@ -4,21 +4,21 @@ INFO-
 INFO-
 INFO-		Running UGTODXF Translator .....
 INFO-
-INFO-		Start of Translation: Tue Apr 28 12:05:01 2015
+INFO-		Start of Translation: Thu Apr 30 10:22:34 2015
 INFO-
-STATUS-		Converting C:\Users\Eric\AppData\Local\Temp\Eric2B647C31j6ce.prt
+STATUS-		Converting C:\Users\Eric\AppData\Local\Temp\Eric2360DA81mqr4.prt
 STATUS-
 SUMMARY-
 SUMMARY-	Summary of Unigraphics Input Entities
-SUMMARY-	For Unigraphics File: C:\Users\Eric\AppData\Local\Temp\Eric2B647C31j6ce.prt
+SUMMARY-	For Unigraphics File: C:\Users\Eric\AppData\Local\Temp\Eric2360DA81mqr4.prt
 SUMMARY-	------------------------------------------------------------------
 SUMMARY-	Entity Type					Count
 SUMMARY-	------------------------------------------------------------------
-SUMMARY-	Line .....................................:	36
-SUMMARY-	Arc ......................................:	2
+SUMMARY-	Line .....................................:	11
+SUMMARY-	Arc ......................................:	7
 SUMMARY-	Circle ......................................:	7
 SUMMARY-	------------------------------------------------------------------
-SUMMARY-	Total ....................................:	45
+SUMMARY-	Total ....................................:	25
 SUMMARY-	------------------------------------------------------------------
 SUMMARY-
 STATUS-
@@ -28,14 +28,14 @@ SUMMARY-	Summary of AutoCAD Output Entities
 SUMMARY-	------------------------------------------------------------------
 SUMMARY-	Entity Type					Count
 SUMMARY-	------------------------------------------------------------------
-SUMMARY-	Arc ......................................:	2
+SUMMARY-	Arc ......................................:	7
 SUMMARY-	Circle ...................................:	7
-SUMMARY-	Line .....................................:	36
+SUMMARY-	Line .....................................:	11
 SUMMARY-	Layout ...................................:	6
 SUMMARY-	------------------------------------------------------------------
-SUMMARY-	Total ....................................:	51
+SUMMARY-	Total ....................................:	31
 SUMMARY-	------------------------------------------------------------------
 SUMMARY-
 INFO-
-INFO-		End of Translation: Tue Apr 28 12:05:31 2015
+INFO-		End of Translation: Thu Apr 30 10:23:04 2015
 INFO-		Translation CPU time: 0 m, 30 sINFO-
