@@ -4,13 +4,13 @@ INFO-
 INFO-
 INFO-		Running UGTODXF Translator .....
 INFO-
-INFO-		Start of Translation: Mon May 04 12:34:19 2015
+INFO-		Start of Translation: Wed May 13 09:25:20 2015
 INFO-
-STATUS-		Converting C:\Users\Eric\AppData\Local\Temp\Eric20FC58B2u9q0.prt
+STATUS-		Converting C:\Users\Eric\AppData\Local\Temp\Eric17DCCFF4aqhq.prt
 STATUS-
 SUMMARY-
 SUMMARY-	Summary of Unigraphics Input Entities
-SUMMARY-	For Unigraphics File: C:\Users\Eric\AppData\Local\Temp\Eric20FC58B2u9q0.prt
+SUMMARY-	For Unigraphics File: C:\Users\Eric\AppData\Local\Temp\Eric17DCCFF4aqhq.prt
 SUMMARY-	------------------------------------------------------------------
 SUMMARY-	Entity Type					Count
 SUMMARY-	------------------------------------------------------------------
@@ -37,5 +37,5 @@ SUMMARY-	Total ....................................:	25
 SUMMARY-	------------------------------------------------------------------
 SUMMARY-
 INFO-
-INFO-		End of Translation: Mon May 04 12:34:19 2015
+INFO-		End of Translation: Wed May 13 09:25:20 2015
 INFO-		Translation CPU time: 0 m, 0 sINFO-
